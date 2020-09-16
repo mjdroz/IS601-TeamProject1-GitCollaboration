@@ -8,4 +8,6 @@
     * GitFlow helps to ensure that only the final versions of each feature make it to the master branch, which ensures quality control.
     * Have feature branches also enables more than just one developer to work on the same feature. GitFlow gives you the option to make more branches off of branches.
     * GitFlow also allows for development branches where features are sent in order to be tested before being fully released. If something is wrong, then the feature is sent back into development on the feature branches.
-    * Finally, GitFlow allows for hotfixes from developers. These are done through hotfix branches and ensure that you are not merging anything else but your hotfix.    
+    * Finally, GitFlow allows for hotfixes from developers. These are done through hotfix branches and ensure that you are not merging anything else but your hotfix.
+    
+**Source Used for Information:** https://datasift.github.io/gitflow/IntroducingGitFlow.html    
