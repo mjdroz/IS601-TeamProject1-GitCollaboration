@@ -1,5 +1,7 @@
 # The GitFlow Workflow
 
+![Image of the GitFlow Workflow](https://i.pinimg.com/originals/2a/5d/5c/2a5d5c1d5f42a3d0fd712ae7e4b23824.png) 
+
 * How It Works
     
     * Developers use multiple branches called feature branches where each person on a development team can work on different features of the project at the same time.
