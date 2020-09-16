@@ -15,3 +15,5 @@
 	* Prior to using the command "git commit" it is important to "add", using "git add", the file or files that you changed to the index, in order to be staged for the next commit. This will make sure that all changes are committed. 
 	* Commits are often paired with "git status". The command "git status" is used to check if there has been any changes since the last commit in the working branch. Using "git status" is a good way to see if your changes you save went through, and using "git commit" is a good way to create a snapshot of those changes.
 	* Finally, it is important to remember that commits do not "push" the changes to the branch. After you commit a change or changes, it is important to then push the new additions or deletions to the repository.
+	
+**Source Used for Information:** https://www.atlassian.com/git/tutorials/saving-changes/git-commit
