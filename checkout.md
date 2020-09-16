@@ -13,3 +13,5 @@
     * Git checkout has multiple uses, as mentioned before, but its best use can be seen when you attach the "-b" option at the end of the command. This option enables you to make and name a new branch straight from the command line!
     * Git checkout become extremely useful in projects that have more than one branch, which should most projects in Git. It allows for the user to "move" around the repository with ease, and keep things organized until the final versions are complete.
     * Finally, while "git checkout" is not the only way to "move around" it is by far the easiest way to do so.
+    
+**Source Used for Information:** https://www.w3docs.com/learn-git/git-checkout.html
