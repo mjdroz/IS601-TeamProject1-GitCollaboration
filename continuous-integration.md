@@ -8,12 +8,18 @@
 	* Continuous integration relies heavily on version control systems, like Git, to be able to work properly and effectively.
 	* Version control systems can sometimes work in tandem with other systems like syntax review tools, code quality tests, and mu
 ch more.
-	* Without continuous integration developers must commmunicate exactly what they are contributing to the final product. With continuous integration every change is noted and coordination becomes less of a hassle.
+	* Without continuous integration developers must communicate exactly what they are contributing to the final product. With continuous integration every change is noted and coordination becomes less of a hassle.
 
 * **Productivity**
 
 	* Continuous integration can help improve the productivity of a company be enabling multiple developers to edit and change code for a single software product. This in turn can lead to problems being solved faster and more effectively.
-	* On the surface continuous integration does sound like it can cause issues, especailly if one developers code does not work when paired with his or her partners code. However, continuous integration relies heavily on version control systems, which would allow
+	* Version control systems can sometimes work in tandem with other systems like syntax review tools, code quality tests, and much more.
+	* Without continuous integration developers must communicate exactly what they are contributing to the final product. How with continuous integration every change is noted and coordination becomes less of a hassle.
+
+* **Productivity**
+
+	* Continuous integration can help improve the productivity of a company be enabling multiple developers to edit and change code for a single software product. This in turn can lead to problems being solved faster and more effectively.
+	* On the surface continuous integration does sound like it can cause issues, especially if one developer's code does not work when paired with his or her partners code. However, continuous integration relies heavily on version control systems, which would allow
  the project manager or developers to rollback the changes made before pushing out the product.
 	* With the ability to have more people working on the same software project, companies who use continuous integration will see
  an increase in product output and products that have problems throughout development.
