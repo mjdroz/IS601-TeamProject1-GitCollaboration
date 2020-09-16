@@ -1,5 +1,7 @@
 # Basics of Status in Git
 
+![Clip Art Image of Status](https://about.gitlab.com/images/blogimages/git-tricks/git-tricks-cover-image.png)
+
 * **Definition**
 
     * The command "git status" is used to keep track of changes to files that you recently made since the last commit.
