@@ -1,6 +1,5 @@
 # Git Push Command
 
-
 •	The git push command uploads the content of the local repository to the remote repository. Pushing is the opposite of fetching. If git fetch imports the content to the local branches, git push exports it to the remote branches.
 
 
