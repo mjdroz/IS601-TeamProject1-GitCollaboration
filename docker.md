@@ -5,4 +5,6 @@
 * Docker provides repeatable development, build, test and production environments. 
 * Also, launching Docker images is is as fast as running as machine process.
 
-![Image of Docker](https://miro.medium.com/proxy/1*9hGvYE5jegHm1r_97gH-jQ.png)   
+![Image of Docker](https://miro.medium.com/proxy/1*9hGvYE5jegHm1r_97gH-jQ.png) 
+
+Source: https://dzone.com/articles/top-10-benefits-of-using-docker  
