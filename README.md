@@ -8,6 +8,14 @@
 
 **Git, Docker, Automated Testing, and Continuous Integration Pages**
 
+**Git;** [git.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/git.md)
+
+**Docker;** [docker.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/docker.md)
+
+**Automated Testing;** [Automated-Testing-Branch.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/Automated-Testing-Branch.md)
+
+**Continuous Integration;** [continuous-integration.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/continuous-integration.md)
+
 **Git Flow Page**
 
 **Git Commands and Terminology Pages**
