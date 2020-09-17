@@ -6,6 +6,12 @@
 
 # Links to Each File
 
+**Git, Docker, Automated Testing, and Continuous Integration Pages**
+
+**Git Flow Page**
+
+**Git Commands and Terminology Pages**
+
 # Changelog
 
 - [x] Created and defined how Git impacts a company - Michael Drozdowski
