@@ -6,15 +6,15 @@
 
 # Links to Each File
 
-**Git, Docker, Automated Testing, and Continuous Integration Pages**
+#### Git, Docker, Automated Testing, and Continuous Integration Pages
 
-**Git;** [git.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/git.md)
+**Git:** [git.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/git.md)
 
-**Docker;** [docker.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/docker.md)
+**Docker:** [docker.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/docker.md)
 
-**Automated Testing;** [Automated-Testing-Branch.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/Automated-Testing-Branch.md)
+**Automated Testing:** [Automated-Testing-Branch.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/Automated-Testing-Branch.md)
 
-**Continuous Integration;** [continuous-integration.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/continuous-integration.md)
+**Continuous Integration:** [continuous-integration.md](/Git-Docker-AutomatedTesting-ContinuousIntegration/continuous-integration.md)
 
 **Git Flow Page**
 
