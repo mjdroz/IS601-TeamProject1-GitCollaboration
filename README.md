@@ -20,7 +20,31 @@
 
 **GitFlow:** [gitFlow.md](/GitFlow/gitFlow.md)
 
-**Git Commands and Terminology Pages**
+### Git Commands and Terminology Pages
+
+**Repository:** [repository.md](/Git-Commands-Terminology/repository.md)
+
+**Clone:** [Clone.md](/Git-Commands-Terminology/Clone.md)
+
+**Fork:** [fork.md](/Git-Commands-Terminology/fork.md)
+
+**Branch:** [Branch.md](/Git-Commands-Terminology/Branch.md)
+
+**Commit:** [commit.md](/Git-Commands-Terminology/commit.md)
+
+**Merge:** [Merge.md](/Git-Commands-Terminology/Merge.md)
+
+**Checkout:** [checkout.md](/Git-Commands-Terminology/checkout.md)
+
+**Push:** [Push.md](/Git-Commands-Terminology/Push.md)
+
+**Pull:** [pull.md](/Git-Commands-Terminology/pull.md)
+
+**Remote Add/Remove/Show:** [Remote.md](/Git-Commands-Terminology/Remote.md)
+
+**Status:** [status.md](/Git-Commands-Terminology/status.md)
+
+**Master Branch:** [Master-Branch.md](/Git-Commands-Terminology/Master-Branch.md)
 
 # Changelog
 
