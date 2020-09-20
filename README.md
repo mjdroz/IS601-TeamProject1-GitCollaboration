@@ -92,6 +92,7 @@ https://www.atlassian.com/git/tutorials/syncing/git-pull
 
 **Status Source:**
 https://www.toolsqa.com/git/git-status-command-in-git/
+
 https://git-scm.com/docs/git-status
 
 **Git Flow Source:** 
@@ -117,10 +118,13 @@ https://www.w3docs.com/learn-git/git-push.html
 
 **Remote Source:** 
 https://articles.assembla.com/en/articles/1136998-how-to-add-a-new-remote-to-your-git-repo
+
 https://www.admfactory.com/how-to-remove-a-remote-from-git/
+
 https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
 
 **Master Source:** 
 https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
 https://www.git-tower.com/learn/git/glossary/master
 
